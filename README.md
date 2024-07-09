@@ -1,5 +1,5 @@
-# sudoku-solver
-A sudoku solver in C
+# Sudoku Solver
+A heuristic-based algorithm that solves sudoku puzzles in C!
 
 ### Files
 - **sudoku.h** : header file containing implementation overview
